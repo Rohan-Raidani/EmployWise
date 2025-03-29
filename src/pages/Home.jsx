@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
-import Card from "../components/card";
+import Card from "../components/Card";
 import { ChevronLeft, ChevronRight, Loader } from "lucide-react";
 
 import { fetchUsers, deleteUser, updateUser } from "../service/index";
