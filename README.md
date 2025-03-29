@@ -43,3 +43,21 @@ Ensure you have the following installed on your machine:
 git clone https://github.com/Rohan-Raidani/EmployWise.git
 cd EmployWise
 ```
+
+### 2. Download the dependencies
+
+```bash
+npm i
+```
+
+### 4. Create a .env file in same folder as index.html and add the api there with /api at the back
+
+```bash
+API_UTL = "<YOUR_API>/api"
+```
+
+### 4. Run the command to see output on localhost
+
+```bash
+npm run dev
+```
