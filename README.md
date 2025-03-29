@@ -56,7 +56,7 @@ npm i
 API_UTL = <YOUR_API>/api
 ```
 
-### 4. Run the command to see output on localhost
+### 5. Run the command to see output on localhost
 
 ```bash
 npm run dev
