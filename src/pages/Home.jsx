@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar";
 import Card from "../components/card";
 import { ChevronLeft, ChevronRight, Loader } from "lucide-react";
 
